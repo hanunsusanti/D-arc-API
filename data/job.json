@@ -1,0 +1,311 @@
+{
+    "jobs":[
+        {
+            "job_title" : "Admin",
+            "company" : "PT Teralink Lintas Teknologi",
+            "job_location" : "Jakarta Timur, Jakarta Raya",
+            "job_status" : "Penuh Waktu",
+            "min_salary" : 4500000,
+            "max_salary" : 5000000,
+            "job_desc" : "Benefits : BPJS Ketenagakerjaan, Uang Makan & Pulsa",
+            "skillset" : "Menguasai Microsoft Office, Word dan Excel Skill komunikasi dan interpersonal yang baikJujur, disiplin, teliti dan mampu bekerjasama dalam team Menguasai Bahasa Inggris menulis dan membaca",
+            "education" : "D3",
+            "age" : 28,
+            "work_exp" : 3
+        },
+
+        {
+            "job_title" : "Sales & Marketing Support Staff",
+            "company" : "PT Sentra Agronusa Bhakti",
+            "job_location" : "Surabaya, Jawa Timur",
+            "job_status" : "Penuh Waktu",
+            "min_salary" : 4500000,
+            "max_salary" : 4800000,
+            "job_desc" : "Mendukung kebutuhan operasional dan administratif tim sales & marketing (maintain database pelanggan, pembuatan kontrak penjualan, faktur penjualan, pengiriman dokumen ke pelanggan, dll). Menyiapkan kebutuhan promo atau event sales & marketing, baik konten media sosial, material promo dan logistik untuk event, dan kebutuhan lain yang diperlukan oleh tim. Berkomunikasi dengan pelanggan secara rutin terkait program sales & marketing. Menyiapkan laporan sesuai kebutuhan perusahaan.",
+            "skillset" : "Minimal Pendidikan D3 semua jurusan Memiliki kemampuan copywriting/surat menyurat yang baik. Pengalaman posisi setara minimal 2 tahun di bidang distribusi Menguasi Microsoft office (terutama Excel untuk pengolahan data) Lebih diutamakan bila memiliki kemampuan design (minimal familiar dengan program Canva)Mampu berkomunikasi dengan baik (secara lisan dan tertulis)Jujur, teliti dan cepat tanggapBersedia bekerja di luar jam kantor (ikut customer visit, event lapangan, dll) dan melakukan perjalanan dinas luar kota/luar pulau.",
+            "education" : "D3",
+            "age" : 28,
+            "work_exp" : 2
+        },
+
+        {
+            "job_title" : "Admin Merchandiser (Ecommerce)",
+            "company" : "PT Indo Seungli Makmur",
+            "job_location" : "Jakarta Pusat, Jakarta Raya",
+            "job_status" : "Kontrak",
+            "min_salary" : 0,
+            "max_salary" : 0,
+            "job_desc" : "Upload new product, Upload promo, price and stockCollect new seller document & coordinate with legal team for agreement Training Partner Office with new sellerRegularly check outstanding order, maintain issue delivery with SCM & Ops TeamRegularly check stock, counter and promotion",
+            "skillset" : "Cepat Belajar, Bertanggung Jawab Dapat Bekerja di bawah tekanan Sangat baik di Excell (Pivot, Vlookup, dll), Photoshop Memiliki komunikasi &; Etika yang baik",
+            "education" : "D3",
+            "age" : 28,
+            "work_exp" : 0
+        },
+
+        {
+            "job_title" : "Admin Balikpapan",
+            "company" : "PT Mitracomm Ekasarana ",
+            "job_location" : "Balikpapan Kota, Kalimantan Timur",
+            "job_status" : "Penuh Waktu",
+            "min_salary" : 3000000,
+            "max_salary" : 4000000,
+            "job_desc" : "Membuat Reporting, Membuat report KPI MPC dan CSO. Menyerahkan KPI DSE/CSO ke Sales Area dan MPC, Bertanggung jawab untuk memetakan DSE/CSOReview & penyeimbangan target KPI RSE/CSOUpdate data personal CSO setiap bulan untuk CSO insentif, Membuat data materi untuk pertemuan Meeting, Berkoordinasi dengan unit kerja internal & eksternal (MPC/outlet)",
+            "skillset" : "Menguasai rumus Excel (Hlookup, Vlookup, Pivod, dan IF) Diutamakan berdomisili di Balikpapan Penempatan Balikpapan",
+            "education" : "D3",
+            "age" : 30,
+            "work_exp" : 6
+        },
+
+        {
+            "job_title" : "Logistik Staff",
+            "company" : "Skincara",
+            "job_location" : "Tangerang Regency, Banten",
+            "job_status" : "Penuh Waktu",
+            "min_salary" : 0,
+            "max_salary" : 0,
+            "job_desc" : "Bertanggung jawan atas operasional logistik, gudang, termasuk pengiriman, penerimaan, penyimpanan, dan pengeluaran produk / barang. Memahami pengelolaan stock dalam memantau dan mejaga tingkat stock yang optimal dan akurat. Membuat Delivery Order, dan melakukan pengontrolan kelancaran seluruh orderan yang masuk dan melaporkan progress pengiriman kepada pihak terkait. Bertanggung jawab untuk memastikan mutasi barang (barang masuk, barang keluar, pemusnahan, mutasi stock).Mengontrol stock barang (stock near ED, overstock dan understock), dan menjaga agar stock on hand sesuai target. Melakukan pengontrolan dan menjaga tingkat akurasi data stock dengan fisik stock secara optimal.",
+            "skillset" : "Memiliki pengalaman di bidang Logistik, manajemen gudang atau posisi terkait Menguasai Ms. Excel Terbiasa dengan deadline Tanggung jawab, cekatan, dan komunikatif.",
+            "education" : "D3",
+            "age" : 28,
+            "work_exp" : 2
+        },
+
+        {
+            "job_title" : "Staff Admin Gudang / Warehouse",
+            "company" : "PT MITA MANTARI",
+            "job_location" : "Bekasi, Jawa Barat",
+            "job_status" : "Penuh Waktu",
+            "min_salary" : 3840000,
+            "max_salary" : 4900000,
+            "job_desc" : "About usPT Mita Mantari, didirikan pada 1987, merupakan perusahaan distribusi dan ritel furnishing untuk kantor dan ruang komersial di Indonesia. Dengan distribusi ke seluruh area Indonesia, PT Mita Mantari menyediakan beragam produk dengan kualitas utama dan pelayanan optimal yang menjamin kepuasan pelanggan.Menerima barang masukMemeriksa jumlah dan kualitas barangMencocokan jumlah dengan POMembuat laporan penerimaan barangInput di program yang telah disediakanMembuat surat jalan pengirimanCek jumlah dengan surat jalan yang dimuatEvaluasi hasil pengirimanMembuat Laporan StokBenefitsUang Makan Hari Kerja (Senin - Sabtu)",
+            "skillset" : "Minimal SMA Mengerti Software AccurateTeliti, Rajin, Cekatan Bertanggung jawab Dapat berkomunikasi dengan baik Memiliki pengalaman di bidang yang sama minimal 1-2 tahun",
+            "education" : "SMA",
+            "age" : 28,
+            "work_exp" : 1
+        },
+
+        {
+            "job_title" : "Staff Admin Gudang",
+            "company" : "PT Winn Appliance ",
+            "job_location" : "Semarang, Jawa Tengah",
+            "job_status" : "Kontrak",
+            "min_salary" : 3000000,
+            "max_salary" : 3500000 ,
+            "job_desc" : "Mengerjakan Stok barang setiap hari dan setiap bulan, Mencatat pengeluaran dan masukan barang setiap hari, Membuat dan melakukan laporan stok opname setiap bulan, Membuat PO, surat jalan, Mengecek ketersediaan stok produk secara berkala dan melakukan pemesanan produk sesuai kebutuhan dan sesuai dengan standard yang telah ditentukan, Membuat laporan pemakaian produkMenghandle pekerjaan di gudang",
+            "skillset" : "Memiliki pengalaman kerja minimal 1 tahun Lulusan SMA, D3, S1 & sederajat Menguasai Microsoft Office (Word dan Excel)Umur maksimal 30 Tahun Dapat menghandle kerja lapanganMemahami menghitung stok barang Memahami alur perhitungan stok opname gudangSiap Bekerja dibawah tekanan Bisa Ms.OffficeTeliti, rapi dan cekatan Minimal Sudah Vaksin Covid Dosis ketiga(3) Akan ada trainingPenempatan di Semarang-Jawa Tengah",
+            "education" : "SMA",
+            "age" : 30,
+            "work_exp" : 1
+        },
+        
+        {
+            "job_title" : "Recruitment Staff",
+            "company" : "PT Mega Central Finance",
+            "job_location" : "Jakarta Barat, Jakarta Raya",
+            "job_status" : "Kontrak",
+            "min_salary" : 0,
+            "max_salary" : 0,
+            "job_desc" : "Searching for qualified candidates as per requirements of user for all Directorate Conducting Psychological Test and other related activities Keeps the documentation of the recruitment process up to date. Recruitment Process report in IT & Digital Business Area Register all new employee data to HR system Qualifications.",
+            "skillset" : "Gelar Sarjana Psikologi Maksimal 26 Tahun Baru lulus atau memiliki pengalaman 1 tahun sebagai staf admin Rekrutmen Keterampilan komputer yang sangat baik, termasuk Excel dan MS Office tingkat lanjut, MS Visio, dll. Cepat belajar, kemampuan analisis yang baik dan mampu bekerja dengan target Keterampilan organisasi dan komunikasi yang sangat baik (tertulis dan lisan), dan keterampilan membangun hubungan yang sangat baik Kemampuan multi-tasking yang kuat Mulai bekerja pada Desember 2023 Bersedia bekerja di Slipi, Jakarta Barat.",
+            "education" : "S1",
+            "age" : 26,
+            "work_exp" : 0
+        },
+
+        {
+            "job_title" : "Sekretaris",
+            "company" : "PT Ometraco Arya Samanta",
+            "job_location" : "Jakarta Barat, Jakarta Raya",
+            "job_status" : "Penuh Waktu",
+            "min_salary" : 0,
+            "max_salary" : 0,
+            "job_desc" : "Melakukan fungsi Administratif Melakukan surat menyurat pengetikan. Melakukan filling. Menjawab telepon dan email yang masuk. Melakukan komunikasi dengan berbagai pihak baik langsung dan tidak langsung.",
+            "skillset" : "Berpengalaman diposisi yang sama Minimal 2 Tahun Pendidikan Minimal. D3 Menguasai bahasa inggris baik lisan dan tulisan Memiliki kemampuan komunikasi yang baik. Mempunyai kemampuan administrasi. Mampu Berpikir logis. Memiliki kemampuan analisis.",
+            "education" : "D3",
+            "age" : 28,
+            "work_exp" : 2
+        },
+
+        {
+            "job_title" : "Receptionist",
+            "company" : "PT Kibarer Properti Bali",
+            "job_location" : "PT Kibarer Properti Bali",
+            "job_status" : "Penuh Waktu",
+            "min_salary" : 0,
+            "max_salary" : 0,
+            "job_desc" : "URGENTLY NEEDED - RECEPTIONIST Kibarer Property looking for a dedicated and friendly Receptionist to be the first point of contact for our valued clients and visitors. As a Receptionist at Kibarer Property, you will play a crucial role in creating a welcoming and efficient office environment. We are dedicated to providing an exceptional experience for our clients and team members alike. As our Receptionist, you will play a crucial role in Welcoming and greeting visitors with a warm and professional demeanor.Managing incoming calls and directing them to the appropriate department.Assisting with administrative tasks, including sorting and distributing mail.Maintaining a tidy and organized reception area.Providing exceptional customer service to clients, guests, and team members.Collaborate in a professional capacity with the company's management.",
+            "skillset" : "Pengalaman sebelumnya sebagai resepsionis atau dalam peran yang berhadapan dengan pelanggan serupa. Kemahiran berbahasa Inggris dan Bahasa IndonesiaKeterampilan komunikasi dan interpersonal yang kuat. Kemahiran dalam perangkat lunak perkantoran dan sistem telepon. Kemampuan organisasi yang sangat baik dan perhatian terhadap detail. Multi-tasker Sikap ramah dan mudah didekati. Jika Anda bersemangat untuk menciptakan kesan pertama yang positif dan menikmati menjadi wajah perusahaan, kami akan senang mendengar dari Anda!",
+            "education" : "D3",
+            "age" : 28,
+            "work_exp" : 0
+        },
+
+        {
+            "job_title" : "Sekretaris",
+            "company" : "PT Ometraco Arya Samanta",
+            "job_location" : "Jakarta Barat, Jakarta Raya",
+            "job_status" : "Penuh Waktu",
+            "min_salary" : 0,
+            "max_salary" : 0,
+            "job_desc" : "Melakukan fungsi Administratif Melakukan surat menyurat pengetikan. Melakukan filling. Menjawab telepon dan email yang masuk. Melakukan komunikasi dengan berbagai pihak baik langsung dan tidak langsung.",
+            "skillset" : "Berpengalaman diposisi yang sama Minimal 2 Tahun Pendidikan Minimal. D3 Menguasai bahasa inggris baik lisan dan tulisan Memiliki kemampuan komunikasi yang baik. Mempunyai kemampuan administrasi. Mampu Berpikir logis. Memiliki kemampuan analisis.",
+            "education" : "D3",
+            "age" : 28,
+            "work_exp" : 2
+        },
+
+        {
+            "job_title" : "Admin Warehouse",
+            "company" : "PT PACIFIC REFUTO SYSTEM",
+            "job_location" : "Cirebon, Jawa Barat",
+            "job_status" : "Penuh Waktu",
+            "min_salary" : 4000000,
+            "max_salary" : 4500000,
+            "job_desc" : "-",
+            "skillset" : "Pendidikan minimal D1 Sederajat Memiliki pengalaman kerja minimal 2 tahun sebagai admin warehouse Mampu mengoperasikan Ms.Office (excel,word,power point) is a must Teliti,cekatan,tegas, dan dapat bekerja sama dengan team Penempatan kerja di Cirebon Jawa Barat.",
+            "education" : "D1",
+            "age" : 28,
+            "work_exp" : 2
+        },
+        
+        {
+            "job_title" : "Admin Head (Samarinda)",
+            "company" : "PT Pro Energi",
+            "job_location" : "Samarinda, Kalimantan Timur",
+            "job_status" : "Kontrak",
+            "min_salary" : 0,
+            "max_salary" : 0,
+            "job_desc" : "Bertanggung jawab atas administrasi penjualan cabangMembuat laporan dan melakukan rekonsiliasi atas “sales performance”Melakukan stock opname produk harian dan membuat perkiraan produk serta forecast sales harian, mingguan, dan bulananMelakukan update dan maintain data customer pada sistemMelakukan koordinasi dengan pihak logistik terkait dengan proses deliveryMelakukan review customer, credit analysist, dan business reviewMereview segala pengajuan FPU, PR PO yang diajukan oleh team SamarindaMelakukan stock opname terhadap sparepart fleet dan mekanikMelakukan fungsi HRGA di cabang SamarindaBertanggung jawab atas petty cash office dan memastikan ketersediaan dana.",
+            "skillset" : "Pendidikan minimal S1 Jurusan Akutansi Usia maksimal 35 tahun Memiliki pengalaman diposisi serupa minimal 3 tahun.",
+            "education" : "S1",
+            "age" : 35,
+            "work_exp" : 3
+        },
+
+        {
+            "job_title" : "Data Entry specialist",
+            "company" : "PT Mangrove Data Group",
+            "job_location" : "West Denpasar, Bali",
+            "job_status" : "Penuh Waktu",
+            "min_salary" : 3500000,
+            "max_salary" : 4500000,
+            "job_desc" : "Mangrove Data Group is a young and fast-growing startup. Our focus is on great quality data processing, with possible expansions web design and content creation in the near future. Our reliable partnerships has given us the possibility to seek more Data Entry Specialists to contribute to our continued success.Job Description: As a Data Entry Specialist at Mangrove Data Group, you will play a crucial role in managing and organizing data critical to our operations. Your meticulous attention to detail and commitment to accuracy will support our expansion into new service areas and help maintain the high standards our clients expect.Key Responsibilities:Accurately input, update, and maintain data across various databases and online platforms.Review and verify data for completeness and accuracy, making necessary corrections.Collaborate with team members to collect required data and ensure consistency across sources.Generate reports, store completed work in designated locations, and perform backup operations.Maintain confidentiality regarding the information being processed, stored, or accessed.Assist with additional administrative tasks as needed to support business operations..What We Offer:A dynamic, supportive, and collaborative work environment.Opportunities for professional growth and development.Competitive salary and benefits package.Red days and 2 weeks paid off per year.Occasional office lunches or activities.Referral bonus for new employees.",
+            "skillset" : "Pengalaman yang terbukti sebagai spesialis entri data atau peran serupa. Keterampilan mengetik dengan mata untuk detail dan keakraban dengan spreadsheet dan formulir online. Perintah bahasa Inggris yang baik, baik lisan maupun tulisan. Pengetahuan tentang MS Office Word, Excel Pemahaman dasar tentang perangkat lunak basis data adalah nilai tambah. Ijazah perguruan tinggi, Pelatihan atau sertifikasi komputer tambahan merupakan nilai tambah.",
+            "education" : "S1",
+            "age" : 28,
+            "work_exp" : 0
+        },
+
+        {
+            "job_title" : "Software Engineer - Web",
+            "company" : "PT Trinusa Travelindo",
+            "job_location" : "Jakarta Raya",
+            "job_status" : "Penuh Waktu",
+            "min_salary" : 0,
+            "max_salary" : 0,
+            "job_desc" : "It's fun to work in a company where people truly BELIEVE in what they're doing! Job Description As a Software Engineer on our Web Engineering team, you will play a pivotal role in shaping the future of transportation technology. You will work with a dynamic team of engineers, product managers, designers, data analysts, and QA engineers to deliver exceptional web experiences and automation solutions. We use a tech stack that includes HTML, CSS, JavaScript, TypeScript, React, Next.js, and Node.js. If you like wild growth and working with happy, enthusiastic over-achievers, you'll enjoy your career with us!",
+            "skillset" : "Gelar sarjana di bidang Ilmu Komputer atau bidang terkait (atau pengalaman setara). 5+ tahun pengalaman pengembangan web profesional. Kemahiran dalam HTML, CSS, JavaScript, TypeScript, React, dan Next.js. Pemahaman yang kuat dalam janji JavaScript dan pemrograman asinkron. Pengalaman dengan Node.js dan solusi otomatisasi bangunan merupakan nilai tambah. Keterampilan pemecahan masalah yang sangat baik dan sikap proaktif. Kemampuan untuk berkolaborasi secara efektif dengan tim lintas fungsi. Keterampilan komunikasi yang kuat dan kemampuan untuk menjelaskan konsep teknis kepada pemangku kepentingan non-teknis. Semangat untuk tetap up-to-date dengan tren dan teknologi industri terbaru.",
+            "education" : "S1",
+            "age" : 28,
+            "work_exp" : 5
+        },
+
+        {
+            "job_title" : "SEO Specialist",
+            "company" : "Company Confidential",
+            "job_location" : "Bandung, Jawa Barat",
+            "job_status" : "Penuh Waktu",
+            "min_salary" : 0,
+            "max_salary" : 0,
+            "job_desc" : "Job description Role Overview As a Sr SEO Specialist at FOREXimf.com,  you will be responsible for managing overall organic marketing pull to  drive business performance with maximum ROI. This involves optimizing  related pages to reach the best rank, analyzing data to deliver  marketing insights, learning about user behavior, fixing and monitoring any campaigns related to SEO techniques. Job Responsibilities Develop and implement effective SEO strategies to improve organic traffic, search ranking, and maximize ROI Use  a variety of tools, competitive research, and other methods to discover  optimal keyword targets needed for marketing, product, and other teams. Identify opportunities to increase organic search from images  and videos, establishing best practices to do that across all areas of  business Strong understanding of web markup, including HTML, CSS, and Schema Work  closely with other marketing counterparts/vendors to oversee SEO  campaigns which include technical auditing and onsite implementation,  link outreach, and content development Work with other teams  such as freelance content writers, graphic designer and growth marketing  managers to identify new opportunities to bring in organic traffic Analyze  backlinks strategy quarterly, 404s, incorrect redirects, or  opportunities for competitive improvement. Replace outdated, toxic, or  dropped off links. Identify opportunities for organic growth,  through SEO optimization, in all areas of the business and work closely  with respected product managers to build hypotheses and implement  successful tests Understand metrics and KPIs and continually suggest optimizations to improve performance Establish best practices for site navigation, breadcrumbing, internal links, and HTML sitemaps Prepare  SEO reports on a weekly, fortnightly and monthly basis to be shared  with internal stakeholders, audit team efforts, prepare competitive analysis and identify areas for improvement.   Culture At FOREXimf, we are innovative, passionate, vibrant, balanced and energetic. Benefits and perks of working with us include: Compensation: Bonuses Family benefits: Paid maternity / paternity leave Lifestyle: Casual dress code Welfare: Health insurance, Vacation time",
+            "skillset" : "Akan bekerja dari Kantor Pusat Bandung Minimal 3+ tahun pengalaman SEO Pengalaman dalam menggunakan alat SEO seperti AHREFS, Google Search Console, Google Analytics dll Memahami metrik Google Analytics 4 dan Google Search Console Pengetahuan yang solid tentang spider mesin pencari, proses perayapan dan pengindeksan, sambil memahami pentingnya peta situs XML, file .txt robot, perbaikan kesalahan kode status Keakraban yang kuat dengan proses pengembangan web, termasuk poin-poin penting di mana SEO harus dipertimbangkan Menunjukkan rasa lapar untuk tetap mengikuti perkembangan industri terbaru dan membuat laporan tentang bagaimana perubahan akan berdampak pada pencarian semua bagian bisnis keharusan Komunikasi yang sangat baik dalam bahasa Inggris, manajemen pemangku kepentingan, dan keterampilan memecahkan masalah.  Dorongan kuat untuk membuat sesuatu terjadi dan mempengaruhi orang lain. Growth mindset untuk selalu bekerja ekstra dalam belajar dan meng-upgrade diri Anda.  Kemampuan untuk menjadi gesit dan fleksibel dalam beradaptasi dengan lingkungan yang dinamis.  Minat dalam forex, investasi, saham, cryptocurrency atau sektor keuangan adalah nilai tambah Manajemen Konten Strategi Konten SEO Pengetahuan SEO teknis adalah suatu ",
+            "education" : "D3",
+            "age" : 28,
+            "work_exp" : 3
+        },
+
+        {
+            "job_title" : "Full Stack Developer",
+            "company" : "PT Indocyber Global Teknologi",
+            "job_location" : "Jakarta Raya",
+            "job_status" : "Penuh Waktu",
+            "min_salary" : 0,
+            "max_salary" : 0,
+            "job_desc" : "Job description - Minimum bachelor’s degree - At least 2 years working experience - Know about language PHP - Know about in NodeJS, VueJs, NestJs - Follow trend on IT things - Good Communication - Willing working at Jakarta - Willing full onsite (WFO) Skills Node.js Vue.js Full-stack Web Development Culture  At Indocyber Global Teknologi, we are adaptable, balanced, energetic, innovative and passionate.  Benefits and perks of working with us include:  Compensation: Bonuses, Competitive salaries, Transportation reimbursement Family benefits: Paid maternity / paternity leave Lifestyle: Company outings Progression: Professional development Welfare: Gym membership, Health insurance",
+            "skillset" : "Gelar sarjana minimum Setidaknya 2 tahun pengalaman kerja Tahu tentang bahasa PHP Ketahui tentang di NodeJS, VueJs, NestJs Ikuti tren tentang hal-hal TI Komunikasi yang Baik Bersedia bekerja di Jakarta Bersedia onsite penuh (WFO) Simpul.js Vue.js Full Stack Web Developer",
+            "education" : "S1",
+            "age" : 28,
+            "work_exp" : 2
+        },
+
+        {
+            "job_title" : "Fullstack Developer",
+            "company" : "Company Confidential",
+            "job_location" : "Jakarta Raya",
+            "job_status" : "Penuh Waktu",
+            "min_salary" : 0,
+            "max_salary" : 0,
+            "job_desc" : "Job description Lead Project development as engineering owner of a group of 3-5 engineers. Working closely with product managers to understand the requirement, Propose solutions and coordinate dependencies Design and write HRIS with C+ to improve the availability, scalability, latency, and efficiency  Engage in HRIS system planning, software performance analysis, tuning, and optimization Work closely with the infrastructure team in building and scaling back-end services as well as performing root cause analysis investigations Work closely with the mobile team to build reusable modularized mobile components utilizing scalable APIs Work with different engineering teams to explore and create new designs/architectures geared toward scale and performance Participate in code and design reviews to maintain our high development standards Join on-call rotations to debug production issues and improve system stability Culture : We’re a company that focus on people and process. Instead of your experiences or your background, we have company values to encourage you do what you do best. You’re free to be passionate, innovate, collaborate, explore anything and care for those you work with. Besides of the challenges, we also believe a productive worker is a worker who has healthy work-life balance. Benefits and perks of working with us include: Compensation: Bonuses, Competitive salaries, transportation allowance Helping Others Grow",
+            "skillset" : "4-5 tahun pengalaman yang relevan. Hands-on di C + atau JavaScript atau Java Kemampuan untuk masuk ke kedalaman dan keluasan di seluruh tumpukan teknologi yang digunakan dalam produk vis-à-vis layanan backend, pembelajaran mesin, rekayasa data, pengembangan web, data dan analitik, infrastrukturTelah bekerja pada arsitektur layanan mikro event-driven skala besar dengan penggunaan aktif Kafka dan dapat merancang solusi berdasarkan pola iniAkrab dengan prinsip-prinsip pemrograman dasar seperti SOLID dan DDDMemahami mengapa kita perlu menguji kode dan telah menerapkan tesMampu memahami/mendiskusikan trade-off desain dan kinerja dalam sistem yang kompleks PemrogramanJavascriptC+Back End DeveloperPengembangan SelulerRekayasa Perangkat LunakSoftware Developer",
+            "education" : "D3",
+            "age" : 28,
+            "work_exp" : 4
+        },
+
+        {
+            "job_title" : "Senior Backend Developer",
+            "company" : "PT Appfuxion Consulting",
+            "job_location" : "Jakarta Raya",
+            "job_status" : "Penuh Waktu",
+            "min_salary" : 0,
+            "max_salary" : 0,
+            "job_desc" : "Job description Responsibilities : Responsible for product launches, delivery customization and rollout of system enhancement.The Application Developer will be responsible for understanding the Business Requirements, defining and documenting gap analysis, appropriate logical and physical designs. To produce the functional and technical specifications. In order to complete the requirements of this role, the Application Developer will need to develop a good understanding of the application system design and data model. The scope of designs will include system development, static data/product configuration, correspondence production, interfaces to other applications, and reports. Perform System Testing/SIT and provide necessary support for UAT In dept programming knowledge and hand on is required to support current application model and enhancement. Able to perform daily production system application support, investigation and resolution. Able to perform Development/UAT batch support.CultureAt PT Appfuxion Consulting Indonesia, we are fast paced, innovative, collaborative, passionate and adaptable. Benefits and perks of working with us include:Compensation: Competitive salaries Lifestyle: Flexible hoursProgression: Professional development AppFuxion Consulting has approximately 450 skilled and experienced digital solution professionals from software blueprint, architecture, process automation, quality assurance to project management. We bring years of experience in delivering digital solutions tailored to your business requirements.Our specialists are industry proven consultants that can architect the right solution, devise a practical delivery plan and deliver customer-centric services to meet our client’s requirements. To further emphasize on our customer-centric approach, we ensure that we are a natural extension of our client’s team; reducing cost, duration, and complexity of our client’s projects while delivering the right digital solutions all within the required timeline.",
+            "skillset" : "Gelar Sarjana Teknologi Informasi atau bidang terkait  Setidaknya 3-4 tahun pengalaman kerja dalam desain dan pengembangan sistem Pengalaman dan pengetahuan dalam Bahasa SQL dan pemrograman Java adalah suatu keharusan. Pengetahuan tentang Java Eclipse SDK / alat pengembangan aplikasi Web, server web Apache Java Tomcat, Aplikasi Web Java, Jboss, Laporan Jasper, Koneksi JDBC Konfigurasi, dan alat manajemen Kontrol Versi SVN akan menjadi keuntungan.  Pengalaman langsung pada teknologi &; kerangka kerja pemrograman berbasis web (Contoh: Spring MVC, Spring Boot, Struts, Hibernate, HTML5, AJAX, JSP, layanan web, NodeJS, .NET)  Mahir dalam setidaknya satu RDBMS komersial (Misalnya IBM DB2, Oracle, MS SQL)  Lebih disukai dengan latar belakang pengetahuan asuransi jiwa.  Pemain tim yang baik dan mampu berkomunikasi secara efektif di semua tingkatan  Mampu menunjukkan pemikiran logis dan teknik pemecahan masalah yang baik dalam lingkungan bisnis dan / atau teknis.  Memiliki profesionalisme yang luar biasa dengan sikap dan kepribadian yang menyenangkan Jawa Mata air AJAX SQL MySQL MVC.",
+            "education" : "S1",
+            "age" : 28,
+            "work_exp" : 3
+        },
+
+        {
+            "job_title" : "Full Stack Engineer",
+            "company" : "Company Confidential",
+            "job_location" : "Jakarta Raya",
+            "job_status" : "Penuh Waktu",
+            "min_salary" : 0,
+            "max_salary" : 0,
+            "job_desc" : "Are you passionately seeking a new challenge in industry 4.0 era? AILIMA is looking for competent and innovative Full Stack Engineer to support the cutting edge technology development in geothermal sector (exploration, development, and operation). Join us and bring your curiosity to life!Background: Computer Science, Engineering and all related backgroundLocation : Jakarta/remote (preferred available to visit office occasionally)Responsibilities :Web application development or API with micro service system development.Working with database system (Querrying Database for tables, functions, and store procedures).Collaborating with UI/UX Design.Note: Please submit your resumes to hrd@ailima.co.id",
+            "skillset" : "Pengalaman satu tahun sebagai pengembang web, lulusan baru didorong untuk mendaftar. Keterampilan organisasi yang kuat yang mencerminkan kemampuan untuk melakukan dan memprioritaskan banyak tugas dengan mulus dengan perhatian yang sangat baik terhadap detail. Keahlian Arsitektur API Restfull. Arsitektur MVC. RDBMS Postgre SQL. .NET Framework 4.7.XXX. Bahasa Pemrograman C+. HTML, CSS, Javascript, Jquery, dan Ajax.",
+            "education" : "S1",
+            "age" : 28,
+            "work_exp" : 1
+        },
+
+        {
+            "job_title" : "Sekretaris",
+            "company" : "PT Ometraco Arya Samanta",
+            "job_location" : "Jakarta Barat, Jakarta Raya",
+            "job_status" : "Penuh Waktu",
+            "min_salary" : 0,
+            "max_salary" : 0,
+            "job_desc" : "Melakukan fungsi Administratif Melakukan surat menyurat pengetikan. Melakukan filling. Menjawab telepon dan email yang masuk. Melakukan komunikasi dengan berbagai pihak baik langsung dan tidak langsung.",
+            "skillset" : "Min 2 tahun pengalaman dan tim pengembangan perangkat lunak yang beragam. Terampil dalam bahasa pemrograman Python atau Golang (tetapi tidak terbatas pada). Sangat terampil dalam mengembangkan, menguji, debugging, dan pemecahan masalah dengan salah satu teknologi ini: Git, kait Git, kerangka kerja uji unit Alat CI seperti CircleCI, Jenkins VM Ubuntu, kontainer Docker, dan Kubernetes alat pemantauan seperti Sentry, alat APM seperti Datadog agregator log seperti Elasticsearch &; Kibana alat penyediaan seperti Ansible Sangat terampil dalam merancang struktur database dunia nyata yang kompleks dan menyimpan, mengelola, dan menganalisis sejumlah besar data dalam SQL. Sangat terampil dalam semua jenis alat pengembangan yang membawa kode sumber dalam file teks ke menjalankan kode dalam produksi. Pengalaman dalam proses dan aplikasi pengembangan tangkas seperti Jira. Pemain tim yang hebat, memiliki etika kerja yang sangat baik, dan memiliki keterampilan komunikasi teknis yang solid dalam bahasa Inggris. Keterampilan: Git Golang Jira",
+            "education" : "D3",
+            "age" : 28,
+            "work_exp" : 2
+        },
+
+        {
+            "job_title" : "Back End Developer (JULO)",
+            "company" : "Company Confidential",
+            "job_location" : "Jakarta Raya",
+            "job_status" : "Penuh Waktu",
+            "min_salary" : 0,
+            "max_salary" : 0,
+            "job_desc" : "Job description: 🙌🏻 About Us JULO is a financial technology company that is working on a financial super app. We started off with the lending arm and have excelled at it. Hundreds of thousands of Indonesians now use JULO apps to get access to a decent credit product. It's our mission to help millions of Indonesians get a better life. That's how we'll build a company future generations will be proud of. We have just closed our Series B round and are now tapping into other financial territories, to eventually provide a one stop financial solution to all Indonesians. 💰Salary Very competitive 👑 Job Role Analyze and systematically approach product requirements and work closely with PMs, QAs, and Tech Leads to build business backend features/apps that are modular and reusable  Come up with practical short and long term solutions that minimize complexity and maximize value  Include security, maintainability, reusability, and testability when developing software solutions and code reviewing  Factor Linux/Unix OS system internals, data storage, computing resources, microservices in the produced software architecture  Identify things that can go wrong early but also thoroughly investigate bugs reported in production  Apply and tailor software development concepts and best practices   Nice to have: Intermediate knowledge in web frontend development Medical Insurance Dental Insurance THR / Bonus system Competitive Salary Period Leave Free Food / Snacks Team Building Activity Self-development Allowance Casual Dress Code Company Outings Childcare Assistance Paid Maternity / Paternity Leave Paid Sick Days Professional Development Recreational Area+F21 Vacation Time Wellness Program Culture Check out more here - https://talent.usedeall.com/ About the company Deall is a curated job portal, where only the talents we have curated can apply to vacancies.",
+            "skillset" : "Berpengalaman diposisi yang sama Minimal 2 Tahun Pendidikan Minimal. D3 Menguasai bahasa inggris baik lisan dan tulisan Memiliki kemampuan komunikasi yang baik. Mempunyai kemampuan administrasi. Mampu Berpikir logis. Memiliki kemampuan analisis.",
+            "education" : "D3",
+            "age" : 28,
+            "work_exp" : 2
+        }
+    ]
+}
